@@ -2,7 +2,7 @@ Pipeline for LAT analysis
 
 Data location
 
-Data can be downloaded at 10.5281/zenodo.10529801
+Data can be downloaded at (https://doi.org/10.5281/zenodo.10529801)
 
 Behavioral data and model fits located in Data/Behavior_and_models
 Data for testing the fitting procedure located in Data/fitting_pipeline_validation
